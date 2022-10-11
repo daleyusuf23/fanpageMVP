@@ -4,5 +4,22 @@
     "express": "^4.18.2",
     "nodemon": "^2.0.20",
     "pg": "^8.8.0"
-  }
+  },
+  "name": "fanpagemvp",
+  "description": "Hands-on: Full Stack - Single Page Application Rep",
+  "version": "1.0.0",
+  "main": "backEndServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daleyusuf23/fanpageMVP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daleyusuf23/fanpageMVP/issues"
+  },
+  "homepage": "https://github.com/daleyusuf23/fanpageMVP#readme"
 }
